@@ -1,4 +1,4 @@
-## Olá! Eu sou a Gisele Tonello Bringhenti
+## Olá! Meu nome é Gisele Tonello Bringhenti
 
 
 - 🌱 Estudando Web Frontend e Design UX/UI
