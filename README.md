@@ -1,8 +1,7 @@
-## Olá! Meu nome é Gisele Tonello Bringhenti
+## Hello! My name is Gisele Tonello Bringhenti
 
 
-- 🌱 Estudando Web Frontend e Design UX/UI
-- 😄 Pronomes: ela/dela
+- 🌱 I'm studying UX/UI Design and Web Frontend.
 
 <div align="center">
   <a href="https://github.com/giseleTB">
